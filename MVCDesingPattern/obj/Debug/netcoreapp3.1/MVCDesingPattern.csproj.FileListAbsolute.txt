@@ -1,0 +1,14 @@
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.csproj.AssemblyReference.cache
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.AssemblyInfoInputs.cache
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.AssemblyInfo.cs
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.csproj.CoreCompileInputs.cache
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.exe
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.deps.json
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.runtimeconfig.json
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.runtimeconfig.dev.json
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.dll
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\bin\Debug\netcoreapp3.1\MVCDesingPattern.pdb
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.dll
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.pdb
+C:\Users\haduy\source\repos\MVCDesingPattern\MVCDesingPattern\obj\Debug\netcoreapp3.1\MVCDesingPattern.genruntimeconfig.cache
